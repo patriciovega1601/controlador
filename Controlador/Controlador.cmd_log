@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "C:/Users/Patricio/Desktop/programas vhdl/Controlador/Controlador/Controlador.xst" -ofn "C:/Users/Patricio/Desktop/programas vhdl/Controlador/Controlador/Controlador.syr" 
+xst -intstyle ise -ifn "C:/Users/Patricio/Desktop/programas vhdl/Controlador/Controlador/Controlador.xst" -ofn "C:/Users/Patricio/Desktop/programas vhdl/Controlador/Controlador/Controlador.syr" 
+xst -intstyle ise -ifn "C:/Users/Patricio/Desktop/programas vhdl/Controlador/Controlador/Controlador.xst" -ofn "C:/Users/Patricio/Desktop/programas vhdl/Controlador/Controlador/Controlador.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx9-csg225-2 "Controlador.ngc" Controlador.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx9-csg225-2 "Controlador.ngc" Controlador.ngd  

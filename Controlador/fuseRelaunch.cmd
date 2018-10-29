@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/Patricio/Desktop/programas vhdl/Controlador/Controlador/Controlador_isim_beh.exe" -prj "C:/Users/Patricio/Desktop/programas vhdl/Controlador/Controlador/Controlador_beh.prj" "work.Controlador" 

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="89" delta="unknown" >"C:/Users/Patricio/Desktop/programas vhdl/Controlador/Controlador/Controlador.vhd" Line 49: &lt;<arg fmt="%s" index="1">maindec</arg>&gt; remains a black-box since it has no binding entity.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="89" delta="unknown" >"C:/Users/Patricio/Desktop/programas vhdl/Controlador/Controlador/Controlador.vhd" Line 50: &lt;<arg fmt="%s" index="1">aludec</arg>&gt; remains a black-box since it has no binding entity.
+</msg>
+
+<msg type="warning" file="Simulator" num="648" delta="unknown" >&quot;<arg fmt="%s" index="1">C:/Users/Patricio/Desktop/programas vhdl/Controlador/Controlador/Controlador.vhd</arg>&quot; Line <arg fmt="%d" index="2">49</arg>. Instance <arg fmt="%s" index="3">maindec</arg> is unbound
+</msg>
+
+<msg type="warning" file="Simulator" num="648" delta="unknown" >&quot;<arg fmt="%s" index="1">C:/Users/Patricio/Desktop/programas vhdl/Controlador/Controlador/Controlador.vhd</arg>&quot; Line <arg fmt="%d" index="2">50</arg>. Instance <arg fmt="%s" index="3">aludec</arg> is unbound
+</msg>
+
+<msg type="error" file="Simulator" num="861" delta="unknown" >Failed to link the design
+</msg>
+
+</messages>
+

@@ -1,0 +1,19 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o C:/Users/Patricio/Desktop/programas vhdl/Controlador/Controlador/Controlador_isim_beh.exe -prj C:/Users/Patricio/Desktop/programas vhdl/Controlador/Controlador/Controlador_beh.prj work.Controlador 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 2
+Turning on mult-threading, number of parallel sub-compilation jobs: 4 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/Patricio/Desktop/programas vhdl/Controlador/Controlador/Controlador.vhd" into library work
+Starting static elaboration
+WARNING:HDLCompiler:89 - "C:/Users/Patricio/Desktop/programas vhdl/Controlador/Controlador/Controlador.vhd" Line 49: <maindec> remains a black-box since it has no binding entity.
+WARNING:HDLCompiler:89 - "C:/Users/Patricio/Desktop/programas vhdl/Controlador/Controlador/Controlador.vhd" Line 50: <aludec> remains a black-box since it has no binding entity.
+Completed static elaboration
+Fuse Memory Usage: 99644 KB
+Fuse CPU Usage: 749 ms
+WARNING:Simulator:648 - "C:/Users/Patricio/Desktop/programas vhdl/Controlador/Controlador/Controlador.vhd" Line 49. Instance maindec is unbound
+WARNING:Simulator:648 - "C:/Users/Patricio/Desktop/programas vhdl/Controlador/Controlador/Controlador.vhd" Line 50. Instance aludec is unbound
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture struct of entity controlador
+Time Resolution for simulation is 1ps.
+ERROR:Simulator:861 - Failed to link the design
